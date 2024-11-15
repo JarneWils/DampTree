@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply font-primary bg-primary text-white leading-loose overflow-x-hidden;
+    }
+}
+
+@font-face {
+    font-family: gothic;
+    src: url(../public/assets/fonts/Gothic-War.otf);
+}
+.gothic {
+    font-family: gothic;
+}
