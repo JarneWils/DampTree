@@ -12,7 +12,7 @@ const Socials = () => {
         <SlSocialSoundcloud className="text-3xl hover:-mt-[3px] text-white/50 hover:text-[#FF7700] duration-100"/>
         </Link>
         
-        <Link href="https://open.spotify.com/artist/346ae2WFW1EyXALKIWHQt6?si=VMW6QnAPTv6CBJP4SxkB3w" target="_blank">
+        <Link href="https://open.spotify.com/artist/3s4SjE8neU2R1WIUE09rkC?si=1CijLMgbQ0qyAsuJVIMXUw" target="_blank">
         <SlSocialSpotify className="text-3xl hover:-mt-[3px] text-white/50 hover:text-[#00E052] duration-100"/>
         </Link>
 
